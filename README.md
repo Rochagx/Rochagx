@@ -70,21 +70,3 @@ Busco sempre ir além do básico, desenvolvendo soluções **claras, organizadas
 ### 🎯 Objetivo
 
 Meu objetivo é crescer como **desenvolvedor de sites e aplicativos**, criando soluções que unam **tecnologia, eficiência e impacto real**, acompanhando boas práticas do mercado e evoluindo continuamente por meio de projetos reais.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Rochagx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochagx&theme=tokyonight&layout=compact&langs_count=8" 
-  />
-</p>
