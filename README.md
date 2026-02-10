@@ -1,92 +1,80 @@
-markdown
+# 👨🏻‍💻 Guilherme Dos Santos Rocha
 
-👨🏻‍💻 Guilherme Dos Santos Rocha
+**`Desenvolvedor Web & Mobile`**  
+**Sites • Aplicações • APIs • Automações**
 
-Desenvolvedor Full Stack | Cybersecurity Enthusiast
+Sou desenvolvedor com foco na criação de **sites e aplicativos modernos**, funcionais e bem estruturados. Concluí o **Ensino Médio integrado ao Técnico em Informática pela UNASP-SP**, onde construí uma base sólida em lógica de programação, desenvolvimento de sistemas e fundamentos de tecnologia.  
+Atualmente, curso **Análise e Desenvolvimento de Sistemas na FIAP**, aprofundando meus conhecimentos em **engenharia de software, arquitetura de aplicações e desenvolvimento profissional**.
 
-Desenvolvedor com foco em criação de sites e aplicativos modernos, interessado em construir soluções funcionais, seguras e escaláveis. Concluí o Ensino Médio integrado ao Técnico em Informática pelo UNASP-SP e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP, aprofundando conhecimentos em engenharia de software e arquitetura de aplicações.
+Tenho grande interesse em **desenvolvimento web e de aplicações**, atuando tanto no **front-end quanto no back-end**. Gosto de participar de todo o ciclo de criação de um produto — da ideia à implementação — sempre priorizando **organização de código, usabilidade, performance e escalabilidade**.
 
-Atuo tanto no front-end quanto no back-end, participando de todo o ciclo de desenvolvimento — da concepção à implementação final. Tenho forte afinidade com cybersegurança aplicada ao desenvolvimento, utilizando Kali Linux como ambiente de estudos, o que fortaleceu minha visão sobre sistemas seguros, redes e boas práticas de segurança.
+Também possuo afinidade com **cybersegurança aplicada ao desenvolvimento**, especialmente em aplicações web, entendendo a importância de criar sistemas seguros desde a base. Utilizo **Linux**, com destaque para o **Kali Linux**, como ambiente de estudos e desenvolvimento, o que fortaleceu minha visão sobre sistemas, redes e segurança.
 
+---
 
+### 🔗 Conecte-se comigo
 
-
-
-
-
-
-
-
-
-🛠️ Linguagens e Tecnologias
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-
-
-
-
-🚀 Sobre mim
-
-const guilherme = {
-    localização: "Brasil 🇧🇷",<br/>
-    formação: ["Técnico em Informática - UNASP", "ADS - FIAP"],<br/>
-    focoAtual: ["Desenvolvimento Full Stack", "Cybersecurity"],<br/>
-    tecnologias: {<br/>
-        frontEnd: ["React", "JavaScript", "Tailwind CSS"],<br/>
-        backEnd: ["Node.js", "Java Spring Boot", "APIs REST"],<br/>
-        databases: ["MySQL", "SQL"],<br/>
-        devOps: ["Git", "GitHub"],<br/>
-        outros: ["Python", "n8n", "AI Integration"]
-    },
-    ambiente: "Kali Linux",<br/>
-    interesses: ["Web Security", "Automações", "Apps Educacionais"]
-};
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" <br/>
-    src="https://github-readme-stats.vercel.app/api?username=Rochagx&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochagx&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-rocha-aa9a74205" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
 
-### 🎯 Projetos em destaque
+### 🛠️ Tecnologias e Ferramentas
 
-Desenvolvo **sites**, **sistemas web** e **aplicativos**, incluindo:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42px" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42px" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42px" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42px" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42px" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42px" title="Linux / Kali Linux"/>
 
-- 🌐 **Sites institucionais e landing pages** com foco em performance
-- 📱 **Aplicações web completas** (React + Node.js/Spring Boot)
-- 📚 **Apps educacionais** voltados ao ENEM e aprendizado digital
-- 🛒 **E-commerce e produtos digitais**
-- 🤖 **Automações inteligentes** com n8n e integração de APIs
-- 🔐 **Projetos de cybersegurança** aplicados ao desenvolvimento
+  <!-- n8n -->
+  <img 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" 
+    width="42px" 
+    title="n8n"
+    style="background-color:white; border-radius:6px; padding:4px;"
+  />
+</p>
+
+<br/>
+
+**Também utilizo e estudo:**
+- APIs REST e integrações com serviços externos  
+- GitHub para versionamento e colaboração  
+- **n8n** para automações e fluxos integrados  
+- Inteligência Artificial aplicada a **apps, plataformas educacionais e produtos digitais**
 
 ---
 
-💼 **Conecte-se comigo:** [LinkedIn](https://linkedin.com/in/seu-linkedin) | 📧 **Email:** seu.email@exemplo.com
+### 🚀 Projetos e Experiências
 
+Ao longo da minha jornada, já desenvolvi:
 
+- **Sites institucionais e páginas de vendas**, com foco em performance e conversão  
+- **Aplicações web completas**, usando React no front-end e Node.js ou Spring Boot no back-end  
+- **Apps educacionais**, principalmente voltados ao ENEM e aprendizado digital  
+- **Plataformas e produtos digitais**, com lógica de negócio bem definida  
+- **Projetos de e-commerce**, incluindo estrutura de produtos e integrações  
+- **Automações com n8n**, conectando APIs, sistemas e fluxos de dados  
+- **Protótipos e projetos experimentais**, testando ideias e conceitos tecnológicos  
+
+Busco sempre ir além do básico, desenvolvendo soluções **claras, organizadas, seguras e preparadas para evolução**.
+
+---
+
+### 🎯 Objetivo
+
+Meu objetivo é crescer como **desenvolvedor de sites e aplicativos**, criando soluções que unam **tecnologia, eficiência e impacto real**, acompanhando boas práticas do mercado e evoluindo continuamente por meio de projetos reais.
