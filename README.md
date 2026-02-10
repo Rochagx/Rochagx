@@ -15,7 +15,7 @@ Também possuo afinidade com **cybersegurança aplicada ao desenvolvimento**, es
 ### 🔗 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-rocha-aa9a74205" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn"
@@ -79,12 +79,12 @@ Meu objetivo é crescer como **desenvolvedor de sites e aplicativos**, criando s
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Rochagx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&theme=tokyonight&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochagx&theme=tokyonight&layout=compact&langs_count=8" 
   />
 </p>
